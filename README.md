@@ -1,4 +1,4 @@
-[# excel-sales-analysis-1-
+[# excel-sales-analysis-1-bike buyers
 Sales data analysis using Microsoft Excel, PivotTables, KPIs and dashboard visualisations]
 # Bike Sales Analysis & Customer Demographics Dashboard | Excel
 
